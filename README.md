@@ -4,9 +4,9 @@ To run this application, please execute the following steps:
 
 1. In your terminal, activate the virtual environment  in this folder by typing:
 	1. For Linux and Mac users:
-		1. <addr> $ source /bin/activate </addr>
+		1. <addr> $ source /bin/activate 
 	1. For Windows Users
-		1. <addr> $ \.Scripts\activate.ps1 </addr>
+		1. <addr> $ \.Scripts\activate.ps1
 
 1. Navigate to /src/ folder
 
