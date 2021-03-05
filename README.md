@@ -1,10 +1,12 @@
 To run this application, please execute the following steps:
 
-1. Have Python installed on your computer https://www.python.org/downloads/
+1. Have Python 3 installed on your computer https://www.python.org/downloads/
+	1. Have pip installed on your computer
+		1.  ``` python -m pip  install ``` 
 
 1. In your terminal, activate the virtual environment  in this folder by typing:
 	1. For Linux and Mac users:
-		1. ``` $ source /bin/activate ```
+		1. ``` $ source Scripts/activate ```
 	1. For Windows Users
 		1. ``` $ \.Scripts\activate.ps1 ```
 
